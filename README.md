@@ -22,12 +22,14 @@ Task 1
 
 Acoording to task 1, 
 The total number of reviews were 3755, Reviews from various countries are 73, Overall rating given to British Airways services are 4.71 / 10.
+
 By comparing all the graphs, we can conclude that most of the customers were satisfied with the cabin crew's services, as indicated by the majority of reviews, all of which were favorable. However, the majority of the customers were seated in business class as instead of economy class.Thus, looking it up, we can say that British Airways should focus more on enhancing economy class seating, entertainment, and service, as well as primarily delaying flights, as the majority of passengers had complaints about that.
 
 Task 2,
 
 According to task 2,
 Chance of predicting true successful bookings is 59%, Precision score is 62%, Accuracy is 62% and Chance of predicting true incomplete bookings correctly is 66%.
+
 I believe that I did not accurately predict the successful bookings. Although the imbalance dataset increases accuracy, it is unable to forecast successful bookings with any degree of accuracy. With 8,000 categorized as incomplete bookings and 7,000 as complete bookings, the dataset was balanced.
 
 
